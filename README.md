@@ -3,8 +3,6 @@ geoip
 
 geoip is a simple script to collect ip address geolocation and ISP provider via geoip2 API into local DBs.
 
-Author: Thiago Oliveira <omugruo@gmail.com>	
-
 Requirements
 =====
 
@@ -19,8 +17,3 @@ https://dev.maxmind.com/geoip/geoip2/geolite2/
 Licence
 =====
 GPLv3
-
-Author Information
-====
-https://www.linkedin.com/in/mugru/
-
